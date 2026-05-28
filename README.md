@@ -176,3 +176,19 @@ Proyecto desarrollado por **Miguel Ángel Leguía** como práctica académica de
 # 📄 Licencia
 
 Proyecto de uso académico y educativo.
+
+# 🗄 Base de Datos
+
+La base de datos MySQL se encuentra en la carpeta:
+
+```bash id="q4qj2p"
+database/
+```
+
+Para importar la base de datos:
+
+1. Abrir MySQL Workbench
+2. Ir a `Server > Data Import`
+3. Seleccionar el archivo `.sql`
+4. Ejecutar la importación
+
